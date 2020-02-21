@@ -109,5 +109,6 @@ Also we used a lambda expression in this particular case since the  default comp
          From the Gameboard.cpp: InitialiseGameboard,and the gameboard destructor
          From the  Gameplay.cpp:Economy phase,Equip phase,Starting phase and part of Gameplay  
 	 From the Personality.cpp:all the print functions
+	 From the Personality.cpp:all the print functions
 	 From Cards.cpp: Card type functions 
          +fileread.cpp and Makefile

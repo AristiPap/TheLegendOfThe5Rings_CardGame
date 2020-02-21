@@ -1,11 +1,26 @@
-# The Legend of the 5 Rings
+# The Legend of the 5 Rings (Mock Game)
 
-Foobar is a Python library for dealing with word pluralization.
+Card game inspired by the original card game, also known as The Legend of the Five Rings.
 
 ## Creators
 
 Aristi Papastavrou (sdi1800154@di.uoa.gr)       		 	   
 Vissarion Moutafis (sdi1800119@di.uoa.gr)
+
+## Prerequisities
+-	gcc : open source C\C++ compiler
+-	make : instalation tool
+-	valgrind : tool for memory managment/check
+```bash
+~$ sudo apt update && sudo apt upgrade
+~$ sudo apt-get install gcc make valgrind
+```
+
+## Download 
+
+```bash
+~$ git clone https://github.com/AristiPap/TheLegendOfThe5Rings_CardGame
+```
 
 ## Compilation Options
 

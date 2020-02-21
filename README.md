@@ -86,7 +86,8 @@ Attack returns true/false depending on whether the attacker won(first subcategor
 
 2.Also we added a delay effect at the beggining greeting the players so that we make the GUI Environment, a bit more interesting/intriguing.
 
-3.We used some of the algorithms of the STL data structures, such as list.sort, to sort the players in descenting order. Also we used a lambda expression in this particular case since the  default compare function was sorting in increasing order.
+3.We used some of the algorithms of the STL data structures, such as list.sort, to sort the players in descenting order.
+Also we used a lambda expression in this particular case since the  default compare function was sorting in increasing order.
 
 4. The card classes are implemented with enumerated types so that the type converter functions work properly and that's the basic reason we changed the DeckBuilder methods.
 
@@ -105,8 +106,8 @@ Attack returns true/false depending on whether the attacker won(first subcategor
          
 	  From the Player.cpp: buyProvince,equip,setProvinces as well as the remaining set            	 			                    
                                 functions,all the remaining printfunctions.
-           From the Gameboard.cpp: InitialiseGameboard,and the gameboard destructor
-           From the  Gameplay.cpp:Economy phase,Equip phase,Starting phase and part of Gameplay
-	         From the Personality.cpp:all the print functions
-	         From Cards.cpp: Card type functions 
-           +fileread.cpp and Makefile
+          From the Gameboard.cpp: InitialiseGameboard,and the gameboard destructor
+          From the  Gameplay.cpp:Economy phase,Equip phase,Starting phase and part of Gameplay
+	  From the Personality.cpp:all the print functions
+	  From Cards.cpp: Card type functions 
+          +fileread.cpp and Makefile

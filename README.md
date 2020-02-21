@@ -104,10 +104,10 @@ Also we used a lambda expression in this particular case since the  default comp
   
 ~VissarionMoutafis  implemented:
 
-         From the Player.cpp:  attack,HasLost,printBattleArmy,printArmy,setchain functions
-                              as well as the Player destructor
-         From the Gameboard.cpp:  gameplay,PrintGameStatistics
-         From the Gameplay.cpp: Battlephase and part of the Gameplay
-         From the Holdings.cpp: all the functions from this file
-         From the Personality.cpp: all the functions except the print functions
-         From Cards.cpp:Greencard/Blackcard type functions
+         From the Player.cpp:  buyProvince,equip,setProvinces as well as the remaining set
+                               functions,all the remaining printfunctions.
+         From the Gameboard.cpp:  InitialiseGameboard,and the gameboard destructor
+         From the Gameplay.cpp: Economy phase,Equip phase,Starting phase and part of Gameplay
+         From the Personality.cpp: all the print functions
+         From Cards.cpp:Card type functions
+	 +fileread.cpp and Makefile

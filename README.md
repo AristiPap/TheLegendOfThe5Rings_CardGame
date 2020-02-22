@@ -44,14 +44,6 @@ We used a makefile to compile the whole program since there are many source file
 ```
 ## Description
 
-Every class and routine is implemented in accordance with the Assignment's readings.
-For implementation specifications read further...
-
-Given Files Specifications:
-        We changed the syntax and behaviour of the most crucial functions since we implemented the classes of dynasty/fate cards with enumerations (also given in the notes of the reading)
-        We also changed the destructor and constructor of deck builder class since it was unnecessary given the rest of the class design.
-        Finaly, we changed the body of the deck creators according to our new enumarations and adjusted the design to fit this condition.
-
 Start of the game:
         We just implemented a function to print the card statistics from the proper files, as well as getting the 2 players      
         names(at least 2 players) and then we continued with the following game phases:

@@ -7,7 +7,7 @@ Card game inspired by the original card game, also known as The Legend of the Fi
 Aristi Papastavrou (sdi1800154@di.uoa.gr)       		 	   
 Vissarion Moutafis (sdi1800119@di.uoa.gr)
 
-## Prerequisities
+## Prerequisites
 -	gcc : open source C\C++ compiler
 -	make : instalation tool
 -	valgrind : tool for memory managment/check
